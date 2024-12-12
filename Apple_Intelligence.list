@@ -1,3 +1,5 @@
-DOMAIN,ios.chat.openai.com
-DOMAIN,safebrowsing-proxy.g.aaplimg.com
-DOMAIN,apple-relay.apple.com
+#DOMAIN,ios.chat.openai.com
+#DOMAIN,safebrowsing-proxy.g.aaplimg.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN_SUFFIX,apple-relay.cloudflare.com
+DOMAIN_KEYWORD,apple-relay
